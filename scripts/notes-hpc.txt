@@ -1,0 +1,16 @@
+Do cpu test with 16, 48, 64 cores etc. to check for non-linear scaling of tasks
+
+Check raw memory requirement for the tasks
+- `top` in terminal of supercomputer
+
+ Globus: file sharing system
+ 
+ to upload to narval
+ > projects > def pollock
+ specify the narval directory in the R script!!
+ 
+ don't use home folder bc it is limited space
+ 
+ install packages on local library once
+ 
+ 
